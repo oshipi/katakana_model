@@ -1,6 +1,5 @@
 # coding: utf-8
 import numpy as np
-# from common.functions import *
 from common.activations import *
 from cpmmon.im_col import im2col, col2im
 from common.loss import label_smoothed_cross_entropy_error
